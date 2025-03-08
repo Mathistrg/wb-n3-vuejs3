@@ -1,10 +1,10 @@
-# 📰 DailyNews - Agrégateur de Flux RSS
+#  DailyNews - Agrégateur de Flux RSS
 
 DailyNews est une application Vue.js 3 permettant d'agréger des flux RSS et d'afficher les actualités associées.
 
-## 📦 Installation et Lancement du Projet
+##  Installation et Lancement du Projet
 
-### 1️⃣ **Cloner le projet**
+### 1 **Cloner le projet**
 ```bash
 git clone https://github.com/ton-repo/dailynews.git
 cd dailynews
